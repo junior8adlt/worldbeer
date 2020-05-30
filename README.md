@@ -26,5 +26,6 @@ Make sure do you have a android studio and emulator for running or Xcode for ios
 # Contact
 Developer Email: alberto.ochoadltorre@gmail.com
 
-# Developer
+# Developers
 Alberto Ochoa.
+Sandro Estrada
